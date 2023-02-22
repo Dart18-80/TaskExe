@@ -8,6 +8,7 @@ interface Props {
 
 const props = defineProps<Props>();
 const router = useRouter();
+
 </script>
 
 <template>
